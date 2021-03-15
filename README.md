@@ -2,5 +2,5 @@
 - 🏢 I sell my labor as a software developer, currently to an early-stage startup supported by [numo](https://www.numo.com/). My current project is called Markup; we're a collaborative editing platform for legal and regulatory documents.
 - 🐍 My first love was Python, but lately I've slowly come to appreciate Golang.
 - 👵 I've been writing code professionally for ten years now; I still feel like I'm learning every day.
-- ✨ still looking for a real-world opportunity to build something in haskell ✨
-- ☠️💖 when I'm not working I rap and make music under the name [Emma Cadence](https://soundcloud.com/hardlyknowem) 💖☠️
+- ✨ still looking for a real-world opportunity to build something in haskell! ✨
+- ☠️💖 when I'm not working I rap and make music under the name [Emma Cadence](https://soundcloud.com/hardlyknowem). 💖☠️
