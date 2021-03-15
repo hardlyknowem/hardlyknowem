@@ -1,1 +1,4 @@
-- 👋 Hi! I'm Emma Cadence. Emma Lefavor to employers, @hardlyknowem to the web.
+- 👋 Hi there! I'm Emma Lefavor.
+- 🏢 I sell my labor as a software developer, currently to an early-stage startup supported by [numo](https://www.numo.com/). My current project is called Markup; we're a collaborative editing platform for legal and regulatory documents.
+- 🐍 My first love was Python, but lately I've slowly come to appreciate Golang.
+- ✨ still looking for a real-world opportunity to build something in haskell ✨
