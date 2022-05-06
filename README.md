@@ -1,6 +1,6 @@
 - 👋 Hi there! I'm Emma Lefavor.
-- 🏢 I sell my labor as a software developer, currently to an early-stage startup supported by [numo](https://www.numo.com/). My current project is called Markup; we're a collaborative editing platform for legal and regulatory documents.
-- 🐍 My first love was Python, but lately I've slowly come to appreciate Golang.
+- 🏢 I sell my labor as a Staff Software Engineer at [Pilot](https://pilot.com/), where we do bookkeeping services at scale.
+- 🐍 My first love was Python, though I've had a very passionate liaison with Typescript on the side for a while now. I have begrudgingly learned to appreciate Golang, C#, and even (some flavors of) Java over the years, but I'm happy to mostly be writing Python again.
 - 👵 I've been writing code professionally for ten years now; I still feel like I'm learning every day.
 - ✨ still looking for a real-world opportunity to build something in haskell! ✨
 - ☠️💖 when I'm not working I rap and make music under the name [Emma Cadence](https://soundcloud.com/hardlyknowem). 💖☠️
